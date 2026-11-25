@@ -1,0 +1,6 @@
+﻿machine_id,machine_name,production_line,machine_type,operating_status,installation_date
+M001,CNC Machine 01,L001,CNC Machining Center,Critical,2023-03-15
+M002,Gear Cutting Machine 01,L001,Gear Hobbing Machine,Normal,2023-05-20
+M003,Bearing Assembly Machine 01,L002,Automated Assembly Press,Normal,2023-07-10
+M004,Grinding Machine 01,L002,Cylindrical Grinder,Normal,2024-01-12
+M005,CNC Machine 02,L003,5-Axis CNC Lathe,Critical,2024-04-05

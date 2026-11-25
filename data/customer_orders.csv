@@ -1,0 +1,16 @@
+﻿order_id,customer_id,product_name,required_quantity,priority,quality_requirement,order_date,delivery_date,order_status
+ORD001,CUST001,Industrial Gear A,200,High,0.05,2026-11-20,2026-12-03,In Progress
+ORD002,CUST002,Industrial Gear B,300,Medium,0.1,2026-11-16,2026-12-08,In Progress
+ORD003,CUST003,Ball Bearing,500,Low,0.15,2026-11-15,2026-12-02,In Progress
+ORD004,CUST004,Roller Bearing,300,High,0.05,2026-11-17,2026-12-07,Completed
+ORD005,CUST005,Precision Shaft,400,Medium,0.1,2026-11-15,2026-12-09,Pending
+ORD006,CUST006,Metal Component,400,Low,0.15,2026-11-18,2026-12-01,In Progress
+ORD007,CUST001,Industrial Gear A,500,High,0.05,2026-11-18,2026-12-02,In Progress
+ORD008,CUST002,Industrial Gear B,400,Medium,0.1,2026-11-16,2026-11-30,In Progress
+ORD009,CUST003,Ball Bearing,250,Low,0.15,2026-11-21,2026-12-09,Completed
+ORD010,CUST004,Roller Bearing,400,High,0.05,2026-11-22,2026-12-09,Pending
+ORD011,CUST005,Precision Shaft,400,Medium,0.1,2026-11-16,2026-12-02,In Progress
+ORD012,CUST006,Metal Component,250,Low,0.15,2026-11-18,2026-12-02,In Progress
+ORD013,CUST001,Industrial Gear A,250,High,0.05,2026-11-20,2026-12-04,In Progress
+ORD014,CUST002,Industrial Gear B,200,Medium,0.1,2026-11-19,2026-12-07,Completed
+ORD015,CUST003,Ball Bearing,500,Low,0.15,2026-11-22,2026-12-06,Pending

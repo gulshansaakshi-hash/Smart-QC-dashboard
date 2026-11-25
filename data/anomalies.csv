@@ -1,0 +1,217 @@
+﻿anomaly_id,machine_id,sensor_type,observed_value,normal_range,severity,possible_cause,recommended_action,detection_timestamp,alert_status
+ANOM-5E71820A2A,M001,Pressure,10.74,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 13:03:20,Unresolved
+ANOM-3D430498B5,M001,Pressure,10.24,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 13:23:53,Unresolved
+ANOM-1C5A908ABB,M001,Pressure,9.86,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 21:50:47,Unresolved
+ANOM-108BE0B0D3,M001,Temperature,80.73,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 22:59:17,Unresolved
+ANOM-F8E98DFFF2,M001,Vibration,6.33,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 22:59:17,Unresolved
+ANOM-58A627BE80,M001,Temperature,89.85,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 23:06:08,Unresolved
+ANOM-B6E38EC625,M001,Vibration,8.05,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 23:06:08,Unresolved
+ANOM-E27D245039,M001,Temperature,83.25,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:09:26,Unresolved
+ANOM-E3A0C0969C,M001,Vibration,6.61,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:09:26,Unresolved
+ANOM-3B224D5698,M001,Temperature,86.28,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 03:05:53,Unresolved
+ANOM-85834914EE,M001,Vibration,7.66,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 03:05:53,Unresolved
+ANOM-8C2A2C1CE3,M001,Temperature,87.39,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 04:28:05,Unresolved
+ANOM-C9242647D1,M001,Temperature,87.53,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 04:34:56,Unresolved
+ANOM-451F58EE66,M001,Pressure,10.65,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 06:10:50,Unresolved
+ANOM-74EE99AA37,M001,Temperature,83.89,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 09:36:20,Unresolved
+ANOM-2079252AB7,M001,Vibration,6.74,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 09:36:20,Unresolved
+ANOM-764A686ED3,M001,Pressure,9.62,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 10:24:17,Unresolved
+ANOM-A2A34DD0DC,M002,Temperature,82.65,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 10:32:38,Unresolved
+ANOM-658908A4F6,M002,Vibration,6.55,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 10:32:38,Unresolved
+ANOM-36A2AB2703,M002,Temperature,93.38,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 10:46:20,Unresolved
+ANOM-83BB10A1A1,M002,Pressure,2.58,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 11:27:26,Unresolved
+ANOM-5A234B8DD8,M002,Vibration,8.62,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 11:41:08,Unresolved
+ANOM-0F20A58DFD,M002,RPM,1586.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 11:41:08,Unresolved
+ANOM-C6D1B41AF8,M002,Temperature,90.07,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 12:56:29,Unresolved
+ANOM-E2D365A006,M002,Vibration,9.03,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 12:56:29,Unresolved
+ANOM-3BB5397C36,M002,Temperature,94.55,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 13:30:44,Unresolved
+ANOM-E77EA3FE20,M002,Vibration,7.6,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 14:32:23,Unresolved
+ANOM-F4CB6963B1,M002,RPM,1567.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 14:32:23,Unresolved
+ANOM-200095B689,M002,Vibration,8.28,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 16:01:26,Unresolved
+ANOM-912D9A4781,M002,RPM,1581.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 16:01:26,Unresolved
+ANOM-CB01E6060E,M002,Temperature,93.39,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 16:28:50,Unresolved
+ANOM-D7C439EC43,M002,Vibration,7.64,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 16:28:50,Unresolved
+ANOM-BC8E4637AD,M002,Temperature,81.91,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 16:42:32,Unresolved
+ANOM-705B0CFD3E,M002,Vibration,6.6,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 16:42:32,Unresolved
+ANOM-E2662E7E5D,M002,Temperature,82.47,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 17:03:05,Unresolved
+ANOM-23F399B30E,M002,Vibration,6.33,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 17:03:05,Unresolved
+ANOM-A61BADFC66,M002,Temperature,94.36,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 17:44:11,Unresolved
+ANOM-0E01A442F3,M002,Temperature,87.12,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 19:06:23,Unresolved
+ANOM-4610B1C3A3,M002,Temperature,94.49,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 19:20:05,Unresolved
+ANOM-1813F9DBAA,M002,Vibration,9.08,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 19:20:05,Unresolved
+ANOM-9760A75C6A,M002,Temperature,88.94,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 19:26:56,Unresolved
+ANOM-DC487E0F03,M002,Vibration,9.1,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 20:42:17,Unresolved
+ANOM-1D3067D72D,M002,RPM,1591.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 20:42:17,Unresolved
+ANOM-9C57947CD2,M002,Pressure,11.18,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 21:43:56,Unresolved
+ANOM-5C1A56BC06,M002,Temperature,89.9,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 22:45:35,Unresolved
+ANOM-3FC4CCD8D9,M002,Temperature,92.8,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 22:59:17,Unresolved
+ANOM-9A45D6E2E3,M002,Vibration,7.52,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 22:59:17,Unresolved
+ANOM-5BEDB2EF9B,M002,Vibration,8.63,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 23:47:14,Unresolved
+ANOM-D5A4955C99,M002,RPM,1700.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 23:47:14,Unresolved
+ANOM-1B01395191,M002,Vibration,8.5,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 00:00:56,Unresolved
+ANOM-41D4475242,M002,RPM,1727.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 00:00:56,Unresolved
+ANOM-F431A053DF,M002,Temperature,89.68,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 00:14:38,Unresolved
+ANOM-FF6FCA2857,M002,Temperature,94.2,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 00:48:53,Unresolved
+ANOM-B6590DD6FB,M002,Pressure,3.2,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 01:43:41,Unresolved
+ANOM-D127BB779D,M002,Temperature,81.89,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 02:11:05,Unresolved
+ANOM-C36187325C,M002,Vibration,6.68,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 02:11:05,Unresolved
+ANOM-C70CA20384,M002,Pressure,2.29,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 02:17:56,Unresolved
+ANOM-DF9EC30B16,M002,Temperature,86.16,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 02:24:47,Unresolved
+ANOM-EBA73842DB,M002,Temperature,81.92,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 02:45:20,Unresolved
+ANOM-010619DC9B,M002,Vibration,6.76,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 02:45:20,Unresolved
+ANOM-3F791B820D,M002,Temperature,88.17,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 03:05:53,Unresolved
+ANOM-49F303F8BC,M002,Vibration,8.68,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 03:19:35,Unresolved
+ANOM-2C9A79060C,M002,RPM,1679.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 03:19:35,Unresolved
+ANOM-8AE0E92AA2,M002,Pressure,3.11,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 05:02:20,Unresolved
+ANOM-2B8DD7AAAB,M002,Temperature,91.74,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 05:09:11,Unresolved
+ANOM-88216C6599,M002,Vibration,9.23,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 05:09:11,Unresolved
+ANOM-4CD53D2AA3,M002,Temperature,80.99,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 06:51:56,Unresolved
+ANOM-F081087F74,M002,Vibration,6.24,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 06:51:56,Unresolved
+ANOM-B48639F7D0,M002,Pressure,9.55,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 06:58:47,Unresolved
+ANOM-C3F8159FFF,M002,Pressure,10.29,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 07:12:29,Unresolved
+ANOM-663EBE818A,M002,Pressure,2.79,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 07:26:11,Unresolved
+ANOM-00864F499B,M002,Temperature,95.71,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 08:14:08,Unresolved
+ANOM-EE19AAA591,M002,Vibration,7.86,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 08:14:08,Unresolved
+ANOM-7FDB4E8C9C,M002,Temperature,94.18,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 08:34:41,Unresolved
+ANOM-6C4DF87B4C,M002,Vibration,7.69,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 08:55:14,Unresolved
+ANOM-422A5FD22D,M002,RPM,1654.0,800–1400 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 08:55:14,Unresolved
+ANOM-1B40E75174,M002,Temperature,80.51,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 09:22:38,Unresolved
+ANOM-73D6D9FE34,M002,Vibration,6.75,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 09:22:38,Unresolved
+ANOM-C8E2F68F45,M002,Pressure,11.01,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 09:36:20,Unresolved
+ANOM-71F0AB258A,M002,Temperature,88.95,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 10:17:26,Unresolved
+ANOM-3285635205,M003,Pressure,2.78,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 17:57:53,Unresolved
+ANOM-38F568EB68,M003,Pressure,10.0,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 02:59:02,Unresolved
+ANOM-BBD59D5D92,M003,Temperature,83.3,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 03:05:53,Unresolved
+ANOM-2C31E6C45C,M003,Vibration,6.35,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 03:05:53,Unresolved
+ANOM-E4AA393EF8,M003,Pressure,2.74,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 03:12:44,Unresolved
+ANOM-7D0530E344,M003,Vibration,8.6,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 08:34:41,Unresolved
+ANOM-2D47A077EC,M003,RPM,1778.0,1000–1600 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 08:34:41,Unresolved
+ANOM-A632030827,M004,Vibration,8.07,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 11:00:02,Unresolved
+ANOM-736B2E1C18,M004,RPM,2886.0,1800–2600 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 11:00:02,Unresolved
+ANOM-8B216BB816,M004,Pressure,9.72,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 12:35:56,Unresolved
+ANOM-69DE9415EC,M004,Pressure,2.6,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 12:42:47,Unresolved
+ANOM-A0F118A729,M004,Temperature,94.7,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 13:30:44,Unresolved
+ANOM-C4FBF5D70C,M004,Vibration,9.08,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 13:30:44,Unresolved
+ANOM-F4AEED122E,M004,Pressure,2.82,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 13:37:35,Unresolved
+ANOM-46E1404C53,M004,Pressure,10.16,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 13:58:08,Unresolved
+ANOM-CE9EF4ADA9,M004,Temperature,87.6,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:25:32,Unresolved
+ANOM-740C64E85E,M004,Vibration,8.83,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:25:32,Unresolved
+ANOM-61580495B9,M004,Temperature,89.65,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:39:14,Unresolved
+ANOM-C03008138A,M004,Vibration,9.26,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:39:14,Unresolved
+ANOM-A2F6C5A94C,M004,Vibration,8.87,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 15:40:53,Unresolved
+ANOM-D19499C8AC,M004,RPM,2815.0,1800–2600 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 15:40:53,Unresolved
+ANOM-C3B9671DD5,M004,Temperature,81.55,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 15:47:44,Unresolved
+ANOM-0D7301F1D0,M004,Vibration,6.75,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 15:47:44,Unresolved
+ANOM-C6A12D9B05,M004,Temperature,91.83,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 16:01:26,Unresolved
+ANOM-8C81DB85CC,M004,Vibration,9.25,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 16:01:26,Unresolved
+ANOM-D3883D35D2,M004,Pressure,2.54,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 16:49:23,Unresolved
+ANOM-B032D538A4,M004,Pressure,2.24,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 17:16:47,Unresolved
+ANOM-A39CA11788,M004,Temperature,87.61,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 18:52:41,Unresolved
+ANOM-75CEB2E7EC,M004,Vibration,9.49,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 18:52:41,Unresolved
+ANOM-4B2B1B38C0,M004,Vibration,7.95,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 18:59:32,Unresolved
+ANOM-2F8D29B612,M004,RPM,2825.0,1800–2600 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 18:59:32,Unresolved
+ANOM-F6A25B9BEE,M004,Pressure,10.33,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 19:06:23,Unresolved
+ANOM-2D43A885CE,M004,Pressure,10.87,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 21:16:32,Unresolved
+ANOM-779BF56813,M004,Temperature,90.11,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 21:37:05,Unresolved
+ANOM-F52748B291,M004,Temperature,87.79,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 22:31:53,Unresolved
+ANOM-C95072794C,M004,Pressure,9.53,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 22:52:26,Unresolved
+ANOM-EA7F9D204F,M004,Pressure,9.72,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 23:54:05,Unresolved
+ANOM-6485E655DF,M004,Pressure,2.55,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 00:00:56,Unresolved
+ANOM-4BFA541FCA,M004,Temperature,92.45,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 00:28:20,Unresolved
+ANOM-5B20478165,M004,Vibration,8.4,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 00:55:44,Unresolved
+ANOM-8D4CDCC7D8,M004,RPM,2914.0,1800–2600 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 00:55:44,Unresolved
+ANOM-AD6EC87A75,M004,Temperature,82.34,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:09:26,Unresolved
+ANOM-749F663E0B,M004,Vibration,6.34,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:09:26,Unresolved
+ANOM-224A7452EF,M004,Temperature,93.85,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 02:11:05,Unresolved
+ANOM-F290DEE9B3,M004,Vibration,8.7,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 02:11:05,Unresolved
+ANOM-A1BABDAE92,M004,Pressure,10.43,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 04:34:56,Unresolved
+ANOM-C5ABEE4EC3,M004,Vibration,7.66,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 05:36:35,Unresolved
+ANOM-CA71680D49,M004,RPM,2786.0,1800–2600 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 05:36:35,Unresolved
+ANOM-AA57740BF5,M004,Temperature,92.66,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 05:43:26,Unresolved
+ANOM-33FB7CC308,M004,Vibration,8.32,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 05:43:26,Unresolved
+ANOM-43C31CDDBA,M004,Pressure,10.51,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 05:50:17,Unresolved
+ANOM-9F4EE42870,M004,Temperature,81.22,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 06:38:14,Unresolved
+ANOM-5CB8CABE60,M004,Vibration,6.43,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 06:38:14,Unresolved
+ANOM-68B60AABBA,M004,Pressure,10.87,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 06:58:47,Unresolved
+ANOM-8AE7F8A2E2,M004,Temperature,82.15,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 08:14:08,Unresolved
+ANOM-D0B810DBF0,M004,Vibration,6.51,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 08:14:08,Unresolved
+ANOM-C3232F59A8,M004,Pressure,9.79,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 09:36:20,Unresolved
+ANOM-089A56BD12,M005,Temperature,83.36,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 10:46:20,Unresolved
+ANOM-1ECCD68CEB,M005,Vibration,6.56,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 10:46:20,Unresolved
+ANOM-3451C44912,M005,Vibration,7.37,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 10:53:11,Unresolved
+ANOM-24A69DC679,M005,RPM,2250.0,1300–1900 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 10:53:11,Unresolved
+ANOM-FFD44536E7,M005,Temperature,89.26,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 11:34:17,Unresolved
+ANOM-376F86A9D9,M005,Vibration,9.67,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 11:34:17,Unresolved
+ANOM-6A9A6B4C15,M005,Temperature,91.74,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 11:41:08,Unresolved
+ANOM-B1EE778C2E,M005,Temperature,82.06,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 11:47:59,Unresolved
+ANOM-0FEEF44C6A,M005,Vibration,6.27,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 11:47:59,Unresolved
+ANOM-493409F100,M005,Pressure,3.37,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 13:10:11,Unresolved
+ANOM-187C76DDDE,M005,Temperature,80.65,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 13:23:53,Unresolved
+ANOM-8B680F3D61,M005,Vibration,6.76,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 13:23:53,Unresolved
+ANOM-EB89F36937,M005,Temperature,89.97,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 13:58:08,Unresolved
+ANOM-F004205A98,M005,Vibration,7.97,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 13:58:08,Unresolved
+ANOM-8B21B1AA4C,M005,Temperature,87.66,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:39:14,Unresolved
+ANOM-2FDA1EA7A7,M005,Vibration,8.66,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:39:14,Unresolved
+ANOM-9E90A59EF1,M005,Temperature,88.94,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:59:47,Unresolved
+ANOM-41B1823157,M005,Vibration,8.41,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 14:59:47,Unresolved
+ANOM-1158A81993,M005,Pressure,3.37,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-24 15:34:02,Unresolved
+ANOM-EAED2E28D7,M005,Temperature,89.55,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 15:40:53,Unresolved
+ANOM-08263C1C5E,M005,Pressure,10.91,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 15:54:35,Unresolved
+ANOM-57D9C8669F,M005,Temperature,83.38,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 16:21:59,Unresolved
+ANOM-1A9F71B135,M005,Vibration,6.73,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 16:21:59,Unresolved
+ANOM-F52FB9BDAC,M005,Pressure,11.13,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 17:23:38,Unresolved
+ANOM-261504A4BB,M005,Pressure,9.92,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 17:57:53,Unresolved
+ANOM-441530E632,M005,Vibration,8.89,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 19:13:14,Unresolved
+ANOM-FF216D6B18,M005,RPM,2216.0,1300–1900 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 19:13:14,Unresolved
+ANOM-509D09EF52,M005,Temperature,88.99,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 20:42:17,Unresolved
+ANOM-F181A9D67D,M005,Vibration,7.46,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 21:02:50,Unresolved
+ANOM-0B2DB59C79,M005,RPM,2061.0,1300–1900 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-24 21:02:50,Unresolved
+ANOM-56270C4930,M005,Pressure,11.04,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-24 21:16:32,Unresolved
+ANOM-DEFA92FE27,M005,Temperature,80.52,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 21:23:23,Unresolved
+ANOM-2E076EADB1,M005,Vibration,6.49,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 21:23:23,Unresolved
+ANOM-2F5D7EF0D0,M005,Temperature,94.25,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 21:37:05,Unresolved
+ANOM-0FF32D61D4,M005,Vibration,9.57,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 21:37:05,Unresolved
+ANOM-53EC7D6361,M005,Temperature,90.52,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 21:57:38,Unresolved
+ANOM-BDB023BDDE,M005,Vibration,8.2,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-24 21:57:38,Unresolved
+ANOM-6CB94527B6,M005,Temperature,92.91,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-24 23:19:50,Unresolved
+ANOM-1E624ADE3A,M005,Temperature,81.14,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 23:47:14,Unresolved
+ANOM-5DC46F4077,M005,Vibration,6.56,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-24 23:47:14,Unresolved
+ANOM-28CC6AFE03,M005,Temperature,92.69,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 00:14:38,Unresolved
+ANOM-9F44B85FC2,M005,Vibration,8.63,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 00:14:38,Unresolved
+ANOM-3EE19E5C7A,M005,Pressure,3.17,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 00:42:02,Unresolved
+ANOM-3B561B82AB,M005,Temperature,81.66,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:02:35,Unresolved
+ANOM-F91E1A58BE,M005,Vibration,6.67,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:02:35,Unresolved
+ANOM-61A2220F2A,M005,Temperature,83.51,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:09:26,Unresolved
+ANOM-BDD1140A61,M005,Vibration,6.63,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 01:09:26,Unresolved
+ANOM-2F5703EC9D,M005,Temperature,86.91,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 01:23:08,Unresolved
+ANOM-A447992D14,M005,Pressure,2.23,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 01:29:59,Unresolved
+ANOM-12E0E03372,M005,Temperature,89.18,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 01:43:41,Unresolved
+ANOM-F06A65A6A4,M005,Vibration,7.67,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 01:43:41,Unresolved
+ANOM-CDB1708EF0,M005,Vibration,9.35,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 01:57:23,Unresolved
+ANOM-3E77D634A5,M005,RPM,2176.0,1300–1900 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 01:57:23,Unresolved
+ANOM-F661432809,M005,Temperature,89.33,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 02:04:14,Unresolved
+ANOM-BB202AE658,M005,Temperature,81.49,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 02:24:47,Unresolved
+ANOM-54D7D153A0,M005,Vibration,6.64,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 02:24:47,Unresolved
+ANOM-CCD759ACC4,M005,Pressure,2.86,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 02:59:02,Unresolved
+ANOM-06B321F3A1,M005,Pressure,9.99,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 03:12:44,Unresolved
+ANOM-EF2B2C11AE,M005,Temperature,83.03,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 03:19:35,Unresolved
+ANOM-613C1794EE,M005,Vibration,6.71,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 03:19:35,Unresolved
+ANOM-F3FB90FEF5,M005,Pressure,3.54,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 03:46:59,Unresolved
+ANOM-EC82D00C1B,M005,Temperature,95.84,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 04:14:23,Unresolved
+ANOM-A509EE7C95,M005,Vibration,8.37,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 04:14:23,Unresolved
+ANOM-5349C5C834,M005,Temperature,92.73,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 04:55:29,Unresolved
+ANOM-0C2593F6A3,M005,Vibration,8.36,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 04:55:29,Unresolved
+ANOM-2F1649873B,M005,Pressure,9.85,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 05:09:11,Unresolved
+ANOM-BE231B042D,M005,Temperature,80.88,40.0–80.0 °C,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 05:36:35,Unresolved
+ANOM-643B3DD487,M005,Vibration,6.73,0.0–6.0 mm/s,Medium,Insufficient cooling or heavy cutting load,Check coolant flow and reduce spindle load if needed.,2026-11-25 05:36:35,Unresolved
+ANOM-B6C39F1652,M005,Pressure,2.75,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 05:57:08,Unresolved
+ANOM-A2FC805391,M005,Temperature,91.92,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 06:24:32,Unresolved
+ANOM-E038F392B0,M005,Vibration,9.76,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 06:24:32,Unresolved
+ANOM-BC34631181,M005,Temperature,94.19,40.0–80.0 °C,Critical,Machine overheating,Inspect cooling system and operating load conditions.,2026-11-25 08:27:50,Unresolved
+ANOM-F19A164E3F,M005,Pressure,11.02,4.0–9.0 bar,High,Excessive hydraulic pressure,Inspect pressure control valve and regulator settings.,2026-11-25 09:29:29,Unresolved
+ANOM-BF7E00627E,M005,Temperature,93.48,40.0–80.0 °C,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 09:43:11,Unresolved
+ANOM-1773D8ED35,M005,Vibration,7.81,0.0–6.0 mm/s,Critical,Bearing wear or friction,Inspect bearing lubrication and mechanical condition.,2026-11-25 09:43:11,Unresolved
+ANOM-837FF22B2B,M005,Pressure,2.93,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 09:50:02,Unresolved
+ANOM-B21F91B7DE,M005,Pressure,3.67,4.0–9.0 bar,High,Hydraulic pressure loss,"Inspect hydraulic connections, seals, and pump output.",2026-11-25 10:10:35,Unresolved
+ANOM-1E5A36B0D8,M005,Vibration,7.68,0.0–6.0 mm/s,Critical,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 10:24:17,Unresolved
+ANOM-2C8D06464C,M005,RPM,2124.0,1300–1900 RPM,High,Shaft misalignment,Inspect shaft alignment and coupling balance.,2026-11-25 10:24:17,Unresolved
